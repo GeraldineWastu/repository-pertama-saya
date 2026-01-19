@@ -1,6 +1,6 @@
 #Aplikasi game secret number
 
-secret_number = 502
+secret_number = 982
 guess_number = int(input("Masukkan tebak angka:"))
 
 while guess_number != secret_number:
